@@ -53,7 +53,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "a009",
+                "query": "a693",
                 "matchingCase": false,
                 "explainSearch": true,
                 "collapseAll": true,
@@ -74,7 +74,8 @@
               "title": "書籤"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -170,7 +171,7 @@
       "obsidian-advanced-slides:Show Slide Preview": false
     }
   },
-  "active": "0a059e4068cd8e0f",
+  "active": "e8f4a2c46531f887",
   "lastOpenFiles": [
     "ZeroJudge：基礎練習/ZeroJudge：基礎練習.pdf",
     "ZeroJudge：基礎練習/~$roJudge：基礎練習.docx",
